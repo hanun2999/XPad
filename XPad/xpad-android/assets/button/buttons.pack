@@ -1,0 +1,47 @@
+
+buttons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+LoopBtnLight
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BtnLight
+  rotate: false
+  xy: 204, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BtnDark
+  rotate: false
+  xy: 2, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+LoopFuncBtnLight
+  rotate: false
+  xy: 204, 204
+  size: 150, 200
+  orig: 150, 200
+  offset: 0, 0
+  index: -1
+FuncBtnLight
+  rotate: false
+  xy: 356, 204
+  size: 150, 200
+  orig: 150, 200
+  offset: 0, 0
+  index: -1
+FuncBtnDark
+  rotate: false
+  xy: 2, 406
+  size: 150, 200
+  orig: 150, 200
+  offset: 0, 0
+  index: -1
